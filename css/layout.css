@@ -1,0 +1,12 @@
+body{
+  background-image: url("../image/drink-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+  min-height: 100vh;
+  margin: auto;
+
+  width: 7rem;
+  display: flex;
+  justify-content: center;
+}
